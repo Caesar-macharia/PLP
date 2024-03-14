@@ -7,6 +7,6 @@ class Person:
     def introduce(self):
             print(f"Hi, my name is {self.name}. I am {self.age} years young and I identify as {self.gender}.")
 
-#Example use
+
 person1 = Person("Caesar", 15, "male")
 person1.introduce()
